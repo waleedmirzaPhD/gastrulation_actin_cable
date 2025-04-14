@@ -1,0 +1,11 @@
+name: registration_tools
+channels:
+  - defaults
+dependencies:
+  - python=3.10.16
+  - numpy
+  - matplotlib
+  - scikit-image
+  - pip
+  - pip:
+    - vt-py
